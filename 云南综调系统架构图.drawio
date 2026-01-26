@@ -19,6 +19,21 @@
         <mxCell id="vLcsHPOzihoY1xQ94Ps7-5" parent="vLcsHPOzihoY1xQ94Ps7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nginx集群（内网）" vertex="1">
           <mxGeometry height="30" width="110" x="20" as="geometry" />
         </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="150" x="550" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-2" parent="5DlFkiA0_f61etzrvpEd-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="80" width="150" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-3" parent="5DlFkiA0_f61etzrvpEd-1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-4" parent="5DlFkiA0_f61etzrvpEd-1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="100" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-5" parent="5DlFkiA0_f61etzrvpEd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nginx集群（公网）" vertex="1">
+          <mxGeometry height="30" width="110" x="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
