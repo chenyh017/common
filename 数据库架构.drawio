@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="第 1 页" id="EWjoY2zFL5NsesNiWQ1M">
+    <mxGraphModel dx="1908" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QnmLak6ZEeeVcthOOw3Z-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="290" x="270" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QnmLak6ZEeeVcthOOw3Z-1" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" value="从" vertex="1">
+          <mxGeometry height="50" width="42.5" x="390" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QnmLak6ZEeeVcthOOw3Z-2" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" value="备" vertex="1">
+          <mxGeometry height="50" width="42.5" x="470" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QnmLak6ZEeeVcthOOw3Z-3" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" value="主" vertex="1">
+          <mxGeometry height="50" width="42.5" x="310" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QnmLak6ZEeeVcthOOw3Z-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mysql集群" vertex="1">
+          <mxGeometry height="30" width="60" x="381.25" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
