@@ -58,6 +58,15 @@
         <mxCell id="5DlFkiA0_f61etzrvpEd-21" edge="1" parent="1" source="5DlFkiA0_f61etzrvpEd-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.668;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="5DlFkiA0_f61etzrvpEd-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-22" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="38" x="392" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-23" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="38" x="460" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlFkiA0_f61etzrvpEd-24" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="38" x="545" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
